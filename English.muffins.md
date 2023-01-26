@@ -5,9 +5,9 @@ Based on the recipe by Paul Hollywood.
 ### Ingredients
 
 - 300g strong bread  flour
-- 36g0fas0g tst-action dri. ed yeast
-- 6g salt 
-- 15g caster sugar 
+- 1 tsp active dried yeast
+- 1 tsp fine salt 
+- 1 Tbsp caster sugar 
 - 15g unsalted butter, softened
 - 1 egg, lightly beaten
 - 170 ml milk at room temperature
