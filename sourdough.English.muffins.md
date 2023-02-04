@@ -1,6 +1,6 @@
 ## Sourdough English Muffins
 
-Modified form the recipe by Paul Hollywood.
+Modified form the non-sourdough [recipe](English.muffins.md) by Paul Hollywood.
 
 ### Ingredients
 
