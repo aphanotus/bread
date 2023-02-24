@@ -27,8 +27,8 @@ The recipe here is modified from one for *Pane Pugliese* by [Ciao Italianista](h
 ### Ingredients for dough
 
 - 5/8 tsp active dry yeast
-- 30 g water (115˚F)
-- 360 g water (room temperature)
+- 50 g water (115˚F)
+- 320 g water (room temperature)
 - 100 g *biga* (or active sourdough starter)
 - 525 g flour - Good results with 5-10% semolina
 - 10 g salt
@@ -66,9 +66,8 @@ Some other recipes for *Pane Casereccio* suggest baking in a Dutch oven or cast 
 
 Add seeds!
 
-- 60 g pumpkin seeds, chopped
-- 45 g sunflower seeds, chopped
-- 15 g sesame seeds
-- 5  g poppy seeds
+- 70 g pumpkin seeds, chopped
+- 30 g sunflower seeds, chopped
+- 10 g sesame seeds
 
-Add these to the dough before kneading. Before laming, mist the bread with water, then sprinkle extra seeds on top, or egg wash and sprinkle with poppy seeds. Be sure to cover the loaf abou 10-15 min into the bake to prevent the seeds from over-cooking.
+Add these to the dough before kneading. Before laming, mist the bread with water, then sprinkle extra seeds on top, or egg wash and sprinkle with sesame seeds. Be sure to cover the loaf about 10-15 min into the bake to prevent the seeds from over-cooking.
