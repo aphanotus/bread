@@ -33,3 +33,10 @@ Based on the recipe by Paul Hollywood.
 - [ ] Cook on a griddle at low heat for 5-6 min
 - [ ] Flip and cook another 5-6 min
 - [ ] Cool on a wire rack
+
+## Variations
+
+Add cinnamon and raisins
+
+- 1 1/2 tsp cinnamon
+- 120 g raisins
