@@ -9,8 +9,7 @@ A traditional bread from coastal Norway, made with a combination of sugar, oil, 
 - 1 tsp active dry yeast
 - 296 g lukewarm water
 - 3/4 tbsp olive oil
-- 1 tsp sugar
-- 22 g maple syrup
+- 28 g maple syrup (or 22 g maple syrup and 1 tsp sugar)
 - 1 tsp salt
 - 75 g whole wheat flour
 - 75 g rye flour
