@@ -36,7 +36,12 @@ Based on the recipe by Paul Hollywood.
 
 ## Variations
 
-Add cinnamon and raisins
+### Cinnamon and raisins
 
+Add:
 - 1 1/2 tsp cinnamon
-- 120 g raisins
+- 130 g raisins, chopped
+
+### Sourdough
+
+Add starter and  substract half that mass from the milk and flour. You can add replace the mik volume with milk powder at 0.133 g milk powder / ml milk.
