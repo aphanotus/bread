@@ -1,6 +1,6 @@
 ## Simple Sandwich Bread
 
-Last made: 26 June 2022
+Last made: 18 April 2023
 
 Inspired by Mark Bittman's recipe in *How to Cook Everything*. 
 
@@ -8,7 +8,7 @@ Inspired by Mark Bittman's recipe in *How to Cook Everything*.
 
 - 79g (1/3 cup) water, 110˚F
 - 2 tsp instant yeast
-- 3 Tbsp honey
+- 42h (2 Tbsp) honey
 - 390g (3 1/4 cups) all-purpose flour
 - 30g (1/4 cup) whole wheat flour
 - 1.5 tsp salt
@@ -30,3 +30,17 @@ Inspired by Mark Bittman's recipe in *How to Cook Everything*.
 - [ ] Brush the dough with water.
 - [ ] Bake for 45 min. Cover after 10.
 - [ ] Cool on a wire rack.
+
+### Sourdough modifcation
+
+Follow the same procedure with the ingredients below.
+
+- 150 g starter, active
+- 65 g water, 110˚F
+- 1.5 tsp instant yeast
+- 42h (2 Tbsp) honey
+- 335 g all-purpose flour
+- 30 g whole wheat flour
+- 1.5 tsp salt
+- 165 g milk, room temperature
+- 2 Tbsp melted butter
