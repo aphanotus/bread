@@ -35,6 +35,8 @@ This version of focaccia takes longer to make, but it is much more flavorful!
 
 ### Variations
 
+**Pesto-stuffed Focaccia**: Before the last proof, stretch the dough into a rectangle about twice the width of the final shape. Spread a generous amount of pesto across half the dough and fold it over. Be sure the pesto is room temperature; not refrigerated.
+
 ![](https://i.imgur.com/ohUK91n.jpg)
 
 **Breakfast Focaccia**: Instead of coating the dough with olive oil prior to baking, cover it with crumble topping.
@@ -47,3 +49,4 @@ This version of focaccia takes longer to make, but it is much more flavorful!
 - 1/4 tsp salt
 
 Chop the butter. Combine all the ingredients, and work the butter into the mix. 
+

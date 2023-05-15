@@ -1,4 +1,4 @@
-## Harissa bread
+## Harissa yogurt bread
 
 This recipe is quite an amalgam. It was initially inspired by [a silly recipe from Liam Charles](https://thegreatbritishbakeoff.co.uk/recipes/all/liam-charles-bear-and-share-bread/). I liked his use of yogurt, but wanted a yeast-risen harissa bread like that from [Chetna Makan](https://chetnamakan.co.uk/harissa-bread/). So this recipe incorporates ideas for a yogurt yeast bread from [Serious Eats](https://www.seriouseats.com/bread-baking-yogurt-and-honey-bread). Finally, the harissa recipe is modified from [The Minimalist Baker](https://minimalistbaker.com/easy-diy-harissa-paste/#wprm-recipe-container-40927).
 
@@ -13,7 +13,7 @@ For the dough:
 - 40 g parmesan, grated
 - 20 g sunflower seeds
 - 330 g  yoghurt
-- 2 tsp harissa paste (See below for a homemade recipe)
+- 2 tsp harissa paste
 - 1  egg, beaten for wash
 
 For the tapenade:
