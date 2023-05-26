@@ -58,7 +58,6 @@ For the dough:
 - [ ] Cover and proof until doubled in size, about 90 minutes.
 - [ ] Tip the dough onto a lightly floured surface.
 - [ ] Gently knead it to deflate.
-
 - [ ] Shape the dough into two long sausages and cut each sausage into six even pieces. Shape into 12 even balls.
 - [ ] Arrange the balls in a circle on a baking sheet. Leaving enough space to set your ramekin in the middle and making sure that the balls are only just touching each other. 
 - [ ] Cover and proof again to the desired size, about 45-60 minutes.
