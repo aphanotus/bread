@@ -4,18 +4,18 @@ Based on the recipe by Paul Hollywood.
 
 ### Ingredients
 
-- 300g bread  flour
+- 300 g bread  flour
 - 1 tsp active dried yeast
 - 1 tsp fine salt 
 - 1 Tbsp powdered sugar 
 - 15g butter, softened
 - 1 egg, lightly beaten
 - 170 ml milk at room temperature
-- 15g semolina
+- 15 g semolina
 
 ### Special equipment
 
-- a 9-cm round cutter
+- a 8-cm round cutter
 
 ### Procedure
 
@@ -34,14 +34,3 @@ Based on the recipe by Paul Hollywood.
 - [ ] Flip and cook another 5-6 min
 - [ ] Cool on a wire rack
 
-## Variations
-
-### Cinnamon and raisins
-
-Add:
-- 1 1/2 tsp cinnamon
-- 130 g raisins, chopped
-
-### Sourdough
-
-Add starter and  substract half that mass from the milk and flour. You can add replace the mik volume with milk powder at 0.133 g milk powder / ml milk.

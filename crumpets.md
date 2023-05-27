@@ -1,5 +1,7 @@
 ## Sourdough Crumpets
 
+![](images/crumpets.jpg)
+
 Inspired by [King Arthur](https://www.kingarthurbaking.com/recipes/sourdough-crumpets-recipe) and recommended by Alex Champion. If you don't the rings, just go without them. These are made in Australia where they're called pikelets.
 
 ### Ingredients

@@ -1,8 +1,8 @@
 ## Sourdough Focaccia
 
-![](https://i.imgur.com/FVpR6UM.jpg)
+![](images/focaccia.with.onion.jpg)
 
-This version of focaccia takes longer to make, but it is much more flavorful! 
+This version of focaccia takes a little longer to make, but it is much more flavorful! 
 
 ### Ingredients
 

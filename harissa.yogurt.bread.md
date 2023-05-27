@@ -1,6 +1,8 @@
 ## Harissa yogurt bread
 
-This recipe is quite an amalgam. It was initially inspired by [a silly recipe from Liam Charles](https://thegreatbritishbakeoff.co.uk/recipes/all/liam-charles-bear-and-share-bread/). I liked his use of yogurt, but wanted a yeast-risen harissa bread like that from [Chetna Makan](https://chetnamakan.co.uk/harissa-bread/). So this recipe incorporates ideas for a yogurt yeast bread from [Serious Eats](https://www.seriouseats.com/bread-baking-yogurt-and-honey-bread). Finally, the harissa recipe is modified from [The Minimalist Baker](https://minimalistbaker.com/easy-diy-harissa-paste/#wprm-recipe-container-40927).
+![](images/harissa.bread.jpg)
+
+This recipe is quite an amalgam. It was initially inspired by [a silly recipe from Liam Charles](https://thegreatbritishbakeoff.co.uk/recipes/all/liam-charles-bear-and-share-bread/). I liked his use of yogurt, but wanted a yeast-risen harissa bread like that from [Chetna Makan](https://chetnamakan.co.uk/harissa-bread/). So this recipe incorporates ideas for a yogurt yeast bread from [Serious Eats](https://www.seriouseats.com/bread-baking-yogurt-and-honey-bread). Finally, the harissa recipe is modified from [The Minimalist Baker](https://minimalistbaker.com/easy-diy-harissa-paste/#wprm-recipe-container-40927). My first version included 20 g sunflower seeds, but it didn't seem to add anything (except protein, which is good too).
 
 ### Ingredients
 
@@ -8,12 +10,11 @@ For the dough:
 
 - 350 g bread flour
 - 1 tsp salt
-- 1 tsp yeast
+- 1.5 tsp yeast
 - 1 tsp smoked sweet paprika
-- 40 g parmesan, grated
-- 20 g sunflower seeds
-- 330 g  yoghurt
-- 2 tsp harissa paste
+- 40 g parmesan cheese, grated
+- 330 g  yogurt
+- 1 Tbsp harissa paste
 - 1  egg, beaten for wash
 
 For the tapenade:
@@ -51,7 +52,7 @@ For the harissa:
 
 For the dough:
 
-- [ ] Microwave the yogurt to warm it to about 110˚F
+- [ ] Microwave the yogurt to warm it to about 110˚F. On our microwave, it's about 90 seconds.
 - [ ] Add about half the flour and all of the yeast. Stir to combine. Cover the bowl with plastic wrap and set aside for 20 minutes.
 - [ ] Add the rest of the flour, salt, parmesan, sunflower seeds, paprika and harissa. 
 - [ ] Knead with the dough hook until smooth and elastic, about 6-8 minutes. 
@@ -62,13 +63,13 @@ For the dough:
 - [ ] Arrange the balls in a circle on a baking sheet. Leaving enough space to set your ramekin in the middle and making sure that the balls are only just touching each other. 
 - [ ] Cover and proof again to the desired size, about 45-60 minutes.
 - [ ] Brush with the beaten egg.
-- [ ] Bake at 400°F for 30 minutes. 
+- [ ] Bake at 400°F for 25 minutes. Cover after about 10 min.
 - [ ] Cool on a wire rack.
 
 For the tapenade:
 
 - [ ] Blitz all the ingredients in a food processor to form a smooth paste.
-- [ ] Transfer the tapenade into a ramekin and sit in the centre of your ring.
+- [ ] Transfer the tapenade into a ramekin and place it in the centre of the ring.
 
 
 

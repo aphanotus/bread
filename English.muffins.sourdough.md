@@ -1,6 +1,8 @@
 ## Sourdough English Muffins
 
-Modified form the non-sourdough [recipe](English.muffins.md) by Paul Hollywood.
+![](images/English.muffins.jpg)
+
+Modified form the non-sourdough [recipe](English.muffins.md) by Paul Hollywood, with replacement of the milk protein and flavor with milk powder at 0.133 g milk powder / ml milk in the original recipe.
 
 Makes about 15 muffins.
 
@@ -16,7 +18,7 @@ Makes about 15 muffins.
 - 300 g fresh sourdough starter
 - 23 g butter, softened
 - 1 egg, lightly beaten
-- 20 g semolina
+- semolina
 
 ### Special equipment
 
@@ -40,3 +42,18 @@ Makes about 15 muffins.
 - [ ] Cook on a griddle at low heat for 5-6 min
 - [ ] Flip and cook another 5-6 min
 - [ ] Cool on a wire rack
+
+![](images/English.muffin.detail.jpg)
+
+
+
+## Variations
+
+### Cinnamon and raisins
+
+![](images/English.muffins.with.raisins.jpg)
+
+Add:
+
+- 1 1/2 tsp cinnamon
+- 130 g raisins, chopped
