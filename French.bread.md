@@ -22,13 +22,13 @@ Dough
 
 For the poolish:
 
-- [ ] Mix the yeast and warm water with a few drops of honey. Let stand for 10 min.
+- [ ] Mix the yeast and warm water. Let stand for 10 min.
 - [ ] Mix in the flour.
-- [ ] Allow the poolish to pre-ferment for 10 to 15 hours. But remember, you want to proceed with it when it is at its peak, but after! If you need to, move it into the fridge or another cool space, but only after it's had a while to grow, and be sure to warm to up again after a chill.
+- [ ] Allow the poolish to pre-ferment for 10 to 15 hours. But remember, you want to proceed when it's at its peak, not after! If you need to, move it into the fridge or another cool space, but only after it's had a while to grow, and be sure to warm it up again after a chill.
 
 For the dough:
 
-- [ ] Mix the yeast and warm water with a few drops of honey. Let stand for 10 min.
+- [ ] Mix the yeast and warm water. Let stand for 10 min.
 - [ ] Mix in the poolish and flour. Cover and let it stand for 25 minutes. (This step allows for autolysis.)
 - [ ] Add the salt.
 - [ ] Knead by hand: Push the dough with the heel of your hand, then fold it back and rotate it. Repeat! Get into a rhythm. Avoid ripping the dough. It will start out very sticky, but it should soon begin to stick more to itself and become more elastic. (This is greater aided by the autolysis step.) Use a windowpane test to determine when the dough is sufficiently kneaded.
