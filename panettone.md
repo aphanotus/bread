@@ -2,56 +2,76 @@
 
 ![](https://i.imgur.com/u0plbkI.jpg)
 
-A traditional Italian bread from Christmas, although everyone loves this bread year round. It works for breakfast or as a dessert. Goes well with cream cheese or butter. Modified from the recipe by [the brown-eyed baker](https://www.browneyedbaker.com/panettone-recipe/). Doing this right takes 3 days, so plan ahead!
+A traditional Italian bread from Christmas, although everyone loves this bread year round. It works for breakfast or as a dessert. Goes well with cream cheese or butter. 
+
+This recipe has evolved with influences from [the brown-eyed baker](https://www.browneyedbaker.com/panettone-recipe/), and [Sally Vargas](https://www.simplyrecipes.com/recipes/panettone/). 
+
+Doing this right takes several days, so plan ahead!
 
 ### Ingredients
 
-- 1 cup dried fruit, such as golden and regular raisins, dates, or dried apricots
-- 0.5 cup golden rum
-- 2/3 cup (100 g) candied orange peel
-- 3.75 cups (468.75 g) all-purpose flour
-- 2/3 cup (133.33 g) granulated sugar
-- 1/2 tsp active dry yeast
-- 1/2 tsp salt
-- zest of half a medium lemon
-- 1/2 tsp vanilla extract
-- 3 eggs, at room temperature
-- 2/3 cup (166.67 ml) tepid water
-- 1 tablespoon honey
-- 10.5 Tbsp unsalted butter, softened
-- 1 Tbsp unsalted butter, melted
+- 450 g all-purpose flour
+- 64 g sugar (14.2%)
+- 1 tsp yeast
+- 0.75 tsp salt
+- 0.5 tsp vanilla extract
+- 5  egg yolks
+- 75 g milk (16.7%)
+- 115 g water (25.6%)
+- 92 g honey (20.4%)
+- 144 g unsalted butter, softened (32.0%)
 - 1 Tbsp unsalted butter, chilled
+- zest of 1 orange
+- 144 g dried fruit, such as golden and regular raisins, currants, dates, or dried apricots (32.0%)
+- 0.5 cup golden rum to soak the dried fruit
+- 75 g candied orange peel (16.7%)
+- 40 g slivered almonds (8.9%)
 
 ### Preparation
 
-#### Day 1: Fruit
+#### Soak the fruit (Day 1)
 
 - [ ] In a small bowl, combine the dried fruit with the rum and a few Tbsp hot water. Soak at room temperature, stirring occasionally, overnight or until raisins are plump and most of the liquid has been absorbed.
-- [ ] Clean and cut orange peel into strips about 2 cm by 3 mm. (A [channel knife](https://www.youtube.com/watch?v=eYtUR4zZMdk) makes this easy!) Boil them in a saturated sugar solution until they become soft and translucent ([candied citron](https://www.aspicyperspective.com/the-easiest-candied-orange-peel-recipe/)).
+- [ ] Wash and cut orange peel into long thin strips (about 2 cm by 3 mm). A [channel knife](https://www.youtube.com/watch?v=eYtUR4zZMdk) makes this easy! Boil them in a saturated sugar solution until they become soft and translucent ([candied citron](https://www.aspicyperspective.com/the-easiest-candied-orange-peel-recipe/)).
 
-> Most of the candied citron should go into the bread, but save some attractive peices to decorate the top of the loaf after baking.
+#### Start the *biga* (Day 1)
 
-#### Day 2: Prove
+- [ ] In a stand-mixer bowl, add the yeast to the warm water (115 g). 
+- [ ] Wait 10 minutes, then mix in 100 g flour.
+- [ ] Cover and let rise overnight (10-16 hours).
 
-- [ ] Combine the dry ingredients: flour, sugar, yeast, salt, and lemon zest. 
-- [ ] In another bowl, whisk together the eggs, tepid water, vanilla extract and honey. 
-- [ ] Mix the egg mixture into the flour mixture. 
-- [ ] Add the softened butter, a few tablespoons at a time, mixing thoroughly before adding more. 
-- [ ] Mix until the dough is smooth and elastic.
-- [ ] Decant the rum from the dried fruit and stir the fruit together with the candied citron and 1 Tbsp of melted butter. Stir this mixture into the dough.
+#### Prep the dough (Day 2)
+
+- [ ] Set the stand mixer on medium speed with the mixing paddle, and add the egg yolks one at a time, until each is incorporated. 
+
+- [ ] Continue at medium speed and add the orange zest, sugar, honey, and vanilla.
+
+- [ ] Reduce to low speed and gradually add about half of the remaining flour (175 g) until blended. You may need to scrape the sides of the bowl. The dough should be very soft and stretchy. On low speed, gradually add the remaining flour until it is incorporated.
+
+- [ ] Let the dough stand for 15-25 minutes for autolysis.
+
+- [ ] Add the salt.
+
+- [ ] Switch to the dough hook. Knead on low speed for 8 minutes, or until the dough is very smooth and elastic. Stop 2 or 3 times to push down any dough that creeps up on the dough hook.
+
+- [ ] With the mixer on low speed, gradually add the butter, a few tablespoons at a time, until it is incorporated. Continue to mix with the dough hook for 3 minutes until the dough is silky and shiny.
+
+  If it still seems extremely sticky, gradually add from 1 to 4 tablespoons additional flour. The dough should be very soft and still sticky and will just barely pull away from the sides of the bowl, but not the bottom.
+
+- [ ] Cover and proof. Use a relatively low room temperature for several hours or refrigerate for up to 2 days.
+
+#### Bake the Panettone (Day 2 or 3)
+
+- [ ] Decant the rum from the soaked fruit. 
 
 > The fruit-infused rum is delicious! It will have a flavor like port.
 
-- [ ] Place the dough in a large, covered bowl to rise overnight (8-12 hours). It should nearly tripled in volume.
+- [ ] Turn the dough out onto a floured workspace and roll it into a flat rectangle. Spread the drained fruit and the almonds evenly over the dough. 
+- [ ] With a rolling pin, roll forcefully over the fruit and nuts to embed them into the dough.
+- [ ] Fold the long sides of the fruit-covered dough into thirds (like a letter). You will end up with a rectangle. Then fold the bottom half of the rectangle to meet the top to form a square. Pat the square to a thickness of about 4 cm. Bring the corners into the center to form a ball, and pinch the loose ends together. Cup your hands around the dough to round the ball.
+- [ ] Place the dough with the seam-side down inside the panettone mold (or use a well-greased spring-form pan). Cover and let it rise in a warm place for 60 to 90 minutes, or until the dough reaches the top edge of the mold. 
+- [ ] About 30 minutes before the panettone is ready to be baked, set a rack in the lower third of the oven and preheat the oven to 375°F.
+- [ ] When the dough has risen, use a sharp, serrated knife to score the surface with a shallow cross from edge to edge. Place a cold 1 Tbsp pat of butter in the center of the dough.
+- [ ] Turn the oven down to 325°F. Bake for 30 minutes. Then place a piece of foil loosely over the top to keep it from browning too much. Continue to bake for 40 to 45 minutes, or until golden brown and a thermometer registers 195°F. 
+- [ ] Allow it to cool upside-down. If using a panettone paper mold, just skewer the loaf and suspend it in large pot. If using a spring-loaf pan, stack the edges of the pan on other objects and allow the panettone to cool while hanging.
 
-#### Day 3: Bake
-
-- [ ] After the first rise, turn the dough out onto a work surface and gently shape it into a round loaf. 
-- [ ] Transfer to a large spring-form pan. Using cooking spray or line the pan with parchment paper.
-- [ ] Cover with plastic or a damp  towel and let the dough rise again in a warm place. The dough will not rise much in the oven, so look for it to have its final shape, rising just above the top of the mold. This may take 3 to 5 hours.
-- [ ] If desired, score the surface of the loaf, and place the chilled tablespoon of butter in the center of the mark. 
-- [ ] Bake at 360˚F for 75 to 90 minutes. Check bread at about 40 minutes and cover loosely with aluminum foil to prevent over-browning of the top.
-
-> We have struggled to optimize the baking time and temperature. The [orginal recipe](https://www.browneyedbaker.com/panettone-recipe/) calls for 60-75 min at 370˚F, but we find this leaves the interior uncooked. The good news is that this recipe is pretty forgiving.
-
-- [ ] Turn the bread out on a rack to cool.
