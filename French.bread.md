@@ -31,7 +31,7 @@ For the dough:
 - [ ] Mix the yeast and warm water. Let stand for 10 min.
 - [ ] Mix in the poolish and flour. Cover and let it stand for 25 minutes. (This step allows for autolysis.)
 - [ ] Add the salt.
-- [ ] Knead by hand: Push the dough with the heel of your hand, then fold it back and rotate it. Repeat! Get into a rhythm. Avoid ripping the dough. It will start out very sticky, but it should soon begin to stick more to itself and become more elastic. (This is greater aided by the autolysis step.) Use a windowpane test to determine when the dough is sufficiently kneaded.
+- [ ] Knead by hand: Push the dough with the heel of your hand, then fold it back and rotate it. Repeat! Get into a rhythm. Avoid ripping the dough. It will start out very sticky, but it should soon begin to stick more to itself and become more elastic. (This is greatly aided by the autolysis step.) Use a windowpane test to determine when the dough is sufficiently kneaded.
 - [ ] Place the dough into a covered, oiled bowl to proof. About 1 hour in a warm spot.
 - [ ] Punch down the dough. Fold it back on itself, twice, and return it to a covered, oiled bowl to proof. About 1 hour in a warm spot.
 
