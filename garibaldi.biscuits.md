@@ -9,13 +9,13 @@ Modified from the [recipe by Prue Leith](https://thegreatbritishbakeoff.co.uk/re
 
 - 200 g dried fruit, roughly chopped (raisins, currants or cranberries)
 - 150 ml orange juice
-- 125 g all-purpose flour
-- 1 tsp baking powder
-- 0.25 tsp baking soda
-- 0.5 tsp salt
-- 75g unsalted butter, cubed and chilled
-- 25g castor (superfine) sugar
-- 1 large egg, separated
+- 225g all-purpose flour
+- 2 tsp baking powder
+- 0.5 tsp baking soda
+- 1 tsp salt
+- 125 g unsalted butter, cubed and chilled
+- 45 g powdered sugar
+- 2 large egg, separated
 
 #### Method
 
