@@ -1,6 +1,6 @@
 ## Panettone
 
-![](https://i.imgur.com/u0plbkI.jpg)
+![](images/panettone.jpg)
 
 A traditional Italian bread from Christmas, although everyone loves this bread year round. It works for breakfast or as a dessert. Goes well with cream cheese or butter. 
 
@@ -8,12 +8,14 @@ This recipe has evolved with influences from [the brown-eyed baker](https://www.
 
 Doing this right takes several days, so plan ahead!
 
+Modified after 
+
 ### Ingredients
 
 **for the dough**
 
 - 465 g all-purpose flour
-- 112 g sugar (24.1%)
+- 62 g sugar (13.3%)
 - 1 tsp yeast
 - 1 tsp salt
 - 0.5 tsp vanilla extract
@@ -21,17 +23,17 @@ Doing this right takes several days, so plan ahead!
 - 2 egg yolks
 - 75 g milk (16.1%)
 - 115 g water (24.7%)
-- 25 g honey (5.4%)
-- 144 g unsalted butter, softened (not melted) (31.0%)
-- 1 Tbsp unsalted butter, refrigerated
+- 50 g honey (10.8%)
+- 100 g (7 Tbsp) unsalted butter, softened (not melted) (21.5%)
+- 14 g (1 Tbsp) unsalted butter, refrigerated
 - zest of 1 orange
 
 **fruit and nut filling**
 
-- 144 g dried fruit, such as golden and regular raisins, currants, dates, or dried apricots (31.0%)
-- 0.5 cup golden rum to soak the dried fruit
-- 75 g candied orange peel (16.1%)
-- 45 g slivered almonds (8.6%)
+- 250 g dried fruit, such as golden and regular raisins, currants, dates, or dried apricots (53.7%)
+- 0.75 cup golden rum to soak the dried fruit
+- 100 g candied orange peel (21.5%)
+- 65 g slivered almonds (14%)
 
 
 
@@ -69,6 +71,8 @@ Doing this right takes several days, so plan ahead!
 - [ ] Decant the rum from the soaked fruit. 
 
 > The fruit-infused rum is delicious! It will have a flavor like port.
+
+![](images/panettone.in.prep.jpg)
 
 - [ ] Turn the dough out onto a well-floured workspace and roll it into a flat rectangle. Spread the drained fruit and the almonds evenly over the dough. 
 - [ ] With a rolling pin, roll forcefully over the fruit and nuts to embed them into the dough.

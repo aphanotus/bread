@@ -1,5 +1,7 @@
 ## Cranberry Chutney
 
+![](images/cranberry.chutney.jpg)
+
 Recipe attributed to Madhur Jaffrey, as [recounted by Susan Stamberg](https://www.npr.org/2023/11/17/1212912664/this-year-mama-stambergs-relish-shares-the-table-with-cranberry-chutney).
 
 ### Ingredients
