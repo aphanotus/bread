@@ -25,8 +25,8 @@ Inspired by [Dylan Bachelet](https://www.instagram.com/dylanbachelet_/)’s Goch
 - 3/4 tsp (3g) fine sea salt
 - 1/2 cup (120g) whole milk, room temperature
 - 2.5 Tbsp gochujang
-- 2.5 Tbsp drained garlic confit (right amount?)
-- 1/4 cup (56g) brown sugar
+- 25g (4 cloves) drained garlic confit (Is this the right amount?)
+- 50g granulated sugar
 - 3 Tbsp (42g) unsalted butter, softened
 - 1 whole egg, room temperature
 
