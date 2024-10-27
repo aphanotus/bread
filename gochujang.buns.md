@@ -60,6 +60,7 @@ Inspired by [Dylan Bachelet](https://www.instagram.com/dylanbachelet_/)’s Goch
 - [ ] Divide into equal pieces (e.g. 9 x 75 g).
 - [ ] Roll dough pieces into small tight balls and place into the baking dish
 - [ ] Cover and proof for 1-2 hours. 
-- [ ] Brush with egg wash (a egg beaten with a splash of whole milk). 
+- [ ] Brush with egg wash (a egg beaten with a splash of whole milk).
+- [ ] Slice the top of each bun with a bread lame or sharp knife to produce an "ear".
 - [ ] Bake in a preheated oven at 350˚F for 28-30 minutes. 
 - [ ] Cool on a wire rack.
