@@ -2,15 +2,9 @@
 
 <img src="https://tellyvisions.org/sites/default/files/2024-10/VS--Netflix-TheGreatBritishBakingShowE3BreadWeek-23%E2%80%9927%E2%80%9D_0.jpg" style="zoom:50%;" />
 
-Inspired by [Dylan Bachelet](https://www.instagram.com/dylanbachelet_/)’s Gochujang Buns from the 2024 GBBO. Following much discussion on Reddit and elsewhere, this version uses [garlic confit](https://daenskitchen.com/garlic-confit/) and a [tangzhong](https://www.joshuaweissman.com/post/greatest-dinner-rolls) milk bread base recipe.
+Inspired by [Dylan Bachelet](https://www.instagram.com/dylanbachelet_/)’s [Gochujang](https://en.wikipedia.org/wiki/Gochujang) Buns from the 2024 GBBO. Following much discussion on Reddit and elsewhere, this version uses [garlic confit](https://daenskitchen.com/garlic-confit/) and a [tangzhong](https://www.kingarthurbaking.com/blog/2018/03/26/tangzhong) milk bread base [recipe](https://www.joshuaweissman.com/post/greatest-dinner-rolls).
 
 ### Ingredients
-
-#### garlic confit
-
-- 2 heads of garlic
-- 195g (1 cup) olive oil
-- herbs (e.g. thyme)
 
 #### tangzhong
 
@@ -25,21 +19,13 @@ Inspired by [Dylan Bachelet](https://www.instagram.com/dylanbachelet_/)’s Goch
 - 3/4 tsp (3g) fine sea salt
 - 1/2 cup (120g) whole milk, room temperature
 - 2.5 Tbsp gochujang
-- 25g (4 cloves) drained garlic confit (Is this the right amount?)
+- 25g (4 cloves) drained garlic confit
 - 50g granulated sugar
 - 3 Tbsp (42g) unsalted butter, softened
 - 1 whole egg, room temperature
 
 
 ### Procedure
-
-#### garlic confit
-
-- [ ] Peel and boil the garlic for 5 min until the skin becomes loose.
-- [ ] Drain the garlic.
-- [ ] Submerge the garlic and herbs in the olive oil.
-- [ ] Bake at 250˚F for 2 hours.
-- [ ] To store, refridgerate in a sealed jar for up to 2 months.
 
 ####  tangzhong
 
@@ -48,7 +34,7 @@ Inspired by [Dylan Bachelet](https://www.instagram.com/dylanbachelet_/)’s Goch
 
 #### dough
 
-- [ ] Start the yeats in a small amount of the warm milk, and let sit for 10 minutes.
+- [ ] Start the yeast in a small amount of the warm milk, and let sit for 10 minutes.
 - [ ] In a stand mixer bowl, add the dry ingredients. 
 - [ ] Add in the milk, yeast mixture, tangzhong, egg, gochujang and garlic confit. 
 - [ ] Mix on low speed, scraping the sides occasionally. 
@@ -57,10 +43,16 @@ Inspired by [Dylan Bachelet](https://www.instagram.com/dylanbachelet_/)’s Goch
 - [ ] Place dough into a lightly greased bowl and cover. 
 - [ ] Rise for 1-2 hours, or doubled in size.
 - [ ] Punch the dough down and dump onto a lightly floured work surface
-- [ ] Divide into equal pieces (e.g. 9 x 75 g).
+- [ ] Divide into equal pieces (e.g. 8 x 90 g).
 - [ ] Roll dough pieces into small tight balls and place into the baking dish
 - [ ] Cover and proof for 1-2 hours. 
 - [ ] Brush with egg wash (a egg beaten with a splash of whole milk).
 - [ ] Slice the top of each bun with a bread lame or sharp knife to produce an "ear".
 - [ ] Bake in a preheated oven at 350˚F for 28-30 minutes. 
 - [ ] Cool on a wire rack.
+
+## Tips
+
+- Tangzhong will turn to paste and then burn quickly. So wtach it!
+- Weigh the dough and calculate a consistent weight to ensure that the buns are a consistent size.
+- Roll the dough into buns by first pulling them into one spot for a few seconds. Then roll them in a cupped hand on top of the bench to round them up. Finally, roll them up as you edge a scraper under them, but push them along. This last motion will produce perfectly round dough balls!
