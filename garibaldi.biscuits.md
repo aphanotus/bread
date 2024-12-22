@@ -13,9 +13,9 @@ Modified from the [recipe by Prue Leith](https://thegreatbritishbakeoff.co.uk/re
 - 2 tsp baking powder
 - 0.5 tsp baking soda
 - 1 tsp salt
-- 125 g unsalted butter, cubed and chilled
+- 125 g unsalted butter, chilled and cubed
 - 45 g powdered sugar
-- 2 large egg, separated
+- 2 large eggs, separated
 
 #### Method
 
@@ -23,7 +23,7 @@ Modified from the [recipe by Prue Leith](https://thegreatbritishbakeoff.co.uk/re
 - [ ] Reduce the heat slightly, then simmer for 5 minutes, until the fruit has softened. 
 - [ ] Drain the fruit, discarding the orange juice. Spread the fruit out on a plate lined with kitchen paper to cool and remove any excess moisture.
 - [ ] Whisk the flour, baking powder, baking soda and salt together in a mixing bowl. 
-- [ ] Add the butter and rub it into the flour with your fingertips until the mixture resembles fine breadcrumbs. Mix in the castor sugar until combined.
+- [ ] Add the butter and rub it into the flour with your fingertips until the mixture resembles fine breadcrumbs. Mix in the powdered sugar until combined.
 - [ ] Add the egg yolk and 1 tablespoon of water and mix with a table knife until the mixture comes together to form a firm dough. 
 - [ ] Knead the dough very gently into a ball, then flatten it into a disc. 
 - [ ] Wrap the disc and chill it for 20 minutes.
