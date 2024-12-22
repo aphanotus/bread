@@ -16,7 +16,7 @@ Modified after
 
 - 465 g all-purpose flour
 - 62 g sugar (13.3%)
-- 1 tsp yeast
+- 0.5 Tbsp yeast
 - 1 tsp salt
 - 0.5 tsp vanilla extract
 - 2 eggs
@@ -52,14 +52,12 @@ Modified after
 
 #### Prep the dough (Day 2)
 
-- [ ] Set the stand mixer on medium speed with the mixing paddle, and add the egg yolks one at a time, until each is incorporated. 
-
-- [ ] Continue at medium speed and add the orange zest, sugar, honey, salt and vanilla.
-
-- [ ] Reduce to low speed and gradually add the remaining flour until blended. You may need to scrape the sides of the bowl.
-
+- [ ] In a large bowl, whisk together the remaining flour (365 g), sugar and salt.
+- [ ] In a separate bowl, whisk together the eggs (and yolks), vanilla, milk and honey.
+- [ ] Set the stand mixer on medium with the mixing paddle. Pour the egg mixture into the *biga*. 
+- [ ] Add the orange zest.
+- [ ] Reduce to low speed and gradually add the flour/sugar mixture until blended. You may need to scrape the sides of the bowl.
 - [ ] Switch to the dough hook. Knead on low speed for 8 minutes, or until the dough is very smooth and elastic. Stop 2 or 3 times to push down any dough that creeps up on the dough hook.
-
 - [ ] With the mixer on low speed, gradually add the butter, a few tablespoons at a time, until it is incorporated. Continue to mix with the dough hook for 3 minutes until the dough is silky and shiny.
 
 > If it still seems extremely sticky, gradually add from 1 to 4 tablespoons additional flour. The dough should be very soft and still sticky and will just barely pull away from the sides of the bowl, but not the bottom.
