@@ -12,6 +12,20 @@ A Saturday morning experiment.
 
 #### dough
 
+##### dark
+
+- 2 tsp (6g) active dry yeast
+- 70 g rye flour
+- 65 g bread flour
+- 65 g whole wheat flour
+- 1/2 tsp (2g) fine sea salt
+- 20 g cocoa powder (unsweetened)
+- half the tangzhong
+- 30 g (1.5 Tbsp) molasses
+- 70 g whole milk, room temperature
+- 26 g (1 7/8 Tbsp) unsalted butter, softened
+- 1 small egg, room temperature
+
 ##### light
 
 - 2 tsp (6g) active dry yeast
@@ -24,31 +38,6 @@ A Saturday morning experiment.
 - 1 small egg, room temperature
 - Caraway seeds to decorate
 
-##### dark
-
-- 2 tsp (6g) active dry yeast
-
-- 70 g rye flour
-
-- 65 g bread flour
-
-- 65 g whole wheat flour
-
-- 1/2 tsp (2g) fine sea salt
-
-- 20 g cocoa powder (unsweetened)
-
-- half the tangzhong
-
-- 30 g (1.5 Tbsp) molasses
-
-- 70 g whole milk, room temperature
-
-- 26 g (1 7/8 Tbsp) unsalted butter, softened
-
-- 1 small egg, room temperature
-
-  
 
 
 ### Procedure
@@ -63,14 +52,12 @@ A Saturday morning experiment.
 Follow these steps in parallel for the dark and light doughs. Start the dark dough first, since it should need a little more time to rise.
 
 - [ ] Start the yeast in a small amount of the warm milk, and let sit for about 10 minutes.
-- [ ] In a stand mixer bowl, add the dry ingredients. 
-- [ ] Add in the milk, yeast mixture, tangzhong, egg and molasses (for the dark dough). 
-- [ ] Mix on low speed, scraping the sides occasionally. 
-- [ ] When the dough starts coming together, increase the speed to medium-low. Gradually add butter until incorporated and nothing sticks to the sides. About 5-7 minutes.
-- [ ] Dump the dough onto a work surface and roll into a tight ball. 
-- [ ] Place dough into a lightly greased bowl and cover. 
-- [ ] Rise for 1-2 hours, or doubled in size.
-- [ ] Punch the dough down and dump onto a lightly floured work surface.
+- [ ] In a large bowl, add the dry ingredients, then the wet ingredients.
+- [ ] Mix until the dough comes together.
+- [ ] Turn out the dough onto a work surface. Knead until the dough is even. 
+- [ ] Transfer the dough into a lightly greased bowl and cover. 
+- [ ] Rise for 1-2 hours, or until both doughs are doubled in size.
+- [ ] Punch the dough down and turn out  onto a lightly floured work surface.
 - [ ] Gently roll the dough out to 10 mm (3/8 inch). Form a rectangle with the short edge being 8 inches (20 cm). Do this for both doughs. 
 - [ ] Lay the dark dough on top of the light and gently roll it up.
 - [ ] Transfer to a greased loaf pan (8.5 x 4.5 inches).
