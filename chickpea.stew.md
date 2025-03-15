@@ -1,8 +1,8 @@
-# Chickpea Stew
+## Chickpea Stew
 
 Based on the recipe from [Alison Roman](https://cooking.nytimes.com/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric)
 
-## Ingredients
+### Ingredients
 
 - ¼ cup olive oil
 - 4 garlic cloves, chopped
@@ -16,8 +16,7 @@ Based on the recipe from [Alison Roman](https://cooking.nytimes.com/recipes/1019
 - 2 cups vegetable stock
 - 1 bunch kale, chard, or similar greens with stems removed, roughly chopped
 
-
-## Procedure
+### Procedure
 
 - Heat the oil in a large pot over medium heat. 
 - Add the garlic, onion and ginger.  Cook, until the onion is translucent, 3 to 5 minutes.

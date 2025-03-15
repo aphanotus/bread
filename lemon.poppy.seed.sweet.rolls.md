@@ -45,7 +45,7 @@ This recipe is a mash-up of recipes for [King Arthur's Cinnamon Rolls](https://w
 
 #### dough
 
-- [ ] Start the yeast in a small amount of the warm milk, and let sit for 10 minutes (ideally before starting the tangzhong).
+- [ ] Start the yeast in the warm milk, and let sit for 10 minutes (ideally before starting the tangzhong).
 - [ ] Mix the tangzhong with the remaining dough ingredients until everything comes together. Let the dough rest, covered, for 20 minutes.
 - [ ] Knead the dough until it is smooth, elastic, somewhat sticky.
 - [ ] Shape the dough into a ball, and let it rest in a lightly greased covered bowl for 60 to 90 minutes, until puffy but not necessarily doubled in bulk.
