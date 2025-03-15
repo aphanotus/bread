@@ -28,7 +28,11 @@ A Saturday morning experiment.
 
 - 2 tsp (6g) active dry yeast
 
-- 200 g (1.5 cups) bread flour
+- 70 g rye flour
+
+- 65 g bread flour
+
+- 65 g whole wheat flour
 
 - 1/2 tsp (2g) fine sea salt
 
