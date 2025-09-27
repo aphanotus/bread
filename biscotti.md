@@ -9,9 +9,9 @@ Based on the recipe by [Eileen Gray](https://www.baking-sense.com/2017/10/24/ani
 - 1 teaspoon vanilla
 - zest of 2 large oranges
 - 2 tablespoons of dark rum
-- 240 g all purpose flour
+- 400 g all purpose flour
 - 30 g corn meal
-- 200 g brown sugar
+- 200 g granulated sugar
 - 1 tablespoon baking powder
 - ½ teaspoon table salt
 - 1 tablespoon anise seeds
