@@ -1,4 +1,4 @@
-## Cardamom "cinnamon" rolls
+## Cardamom breakfast rolls
 
 
 
@@ -13,23 +13,14 @@
 #### dough
 
 - 495 g AP flour
-
 - 21 g dried milk powder
-
 - 11 g salt
-
 - 1 Tbsp active dried yeast
-
 - 170 g whole milk, room temperature
-
 - 2 eggs, room temperature
-
 - 1 tsp vanilla extract
-
 - 5 Tbsp (70 g) unsalted butter, softened
-
 - 2 Tbsp honey
-
 - 1.5 tsp ground cardamom
 
   > [!TIP] 
