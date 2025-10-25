@@ -23,4 +23,3 @@ Recipes for bread and other foods.
 - [scallion pancakes](https://www.kingarthurbaking.com/recipes/quick-sourdough-herb-and-scallion-pancakes-recipe) with sourdough discard
 - [cinnamon rolls](https://www.kingarthurbaking.com/recipes/soft-cinnamon-rolls-recipe)
 - [Panettone](https://www.browneyedbaker.com/panettone-recipe/)
-- 

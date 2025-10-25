@@ -8,14 +8,13 @@ Makes about 15 muffins.
 
 ### Ingredients
 
-- 1 tsp active dried yeast
-- 105 ml water, 110˚F
-- a little honey
-- 300 g bread  flour
+- 1.5 tsp active dried yeast
+- 150 ml water, 110˚F
+- 365 g all-purpose flour
 - 1.5 tsp fine salt 
 - 1.5 Tbsp powdered sugar 
 - 26 g powdered milk
-- 300 g fresh sourdough starter
+- 180 g fresh sourdough starter
 - 23 g butter, softened
 - 1 egg, lightly beaten
 - semolina
@@ -26,17 +25,16 @@ Makes about 15 muffins.
 
 ### Procedure
 
-- [ ] Mix the yeast and warm water with a little honey; incubate for 10 min
-- [ ] Meanwhile, combine the flour, salt, sugar and powdered milk
+- [ ] Mix the yeast and warm water and a pinch of the sugar; incubate for 10 min
+- [ ] Meanwhile, combine the flour, salt, remaining sugar and powdered milk
 - [ ] Add the sourdough starter to the yeast solution
-- [ ] Add the butter and beaten
-- [ ] Combine the wet and dry mixtures to make a soft dough, adding more milk if necessary
-- [ ] Sprinkle the worktop with flour; then turn out the dough and knead for 10 minutes until soft, smooth and stretchy; use a stand mixer on medium for 7 min
-- [ ] Place in a lightly oiled bowl and cover tightly; proof 1-2 hour, until more than doubled in size
+- [ ] Add the butter and beaten egg
+- [ ] Combine the wet and dry mixtures to make the dough
+- [ ] Turn it out and knead by hand for 10-15 minutes 
+- [ ] Place in a buttered bowl and cover; proof 1-2 hour, until more than doubled in size
 - [ ] Return to a floured work surface; roll out to 1.5 cm thick
-- [ ] Relax for 15 min
-- [ ] Sprinkle half the semolina on a cutting board 
-- [ ] Using a round cutter, stamp out muffins
+- [ ] Cover a baking sheet in parchment paper and dust the surface with semolina
+- [ ] Using an 8-cm round cutter, stamp out muffins
 - [ ] Arrange muffins on the baking sheet; sprinkle them with semolina
 - [ ] Rest for 30 min
 - [ ] Cook on a griddle at low heat for 5-6 min
