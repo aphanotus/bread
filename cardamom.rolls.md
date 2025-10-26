@@ -1,6 +1,6 @@
 ## Cardamom breakfast rolls
 
-
+![](images/rolls2.png)
 
 ### Ingredients
 
@@ -12,29 +12,20 @@
 
 #### dough
 
-- 495 g AP flour
-- 21 g dried milk powder
+- 525 g AP flour
 - 11 g salt
 - 1 Tbsp active dried yeast
 - 170 g whole milk, room temperature
 - 2 eggs, room temperature
-- 1 tsp vanilla extract
+- 0.5 tsp vanilla extract
 - 5 Tbsp (70 g) unsalted butter, softened
 - 2 Tbsp honey
-- 1.5 tsp ground cardamom
-
-  > [!TIP] 
-  > Optionally, use sourdough starter with the following modifications:
-  >
-  > - 345 g AP flour
-  > - 50 g dried milk powder
-  > - 300 g sourdough starter
-  > - 20 g water or whole milk
+- 2 tsp ground cardamom
 
 #### filling
 
 - 142 g brown sugar
-- 1 tsp ground cardamom
+- 2 tsp ground cardamom
 - 0.25 tsp cinnamon
 - 2 Tbsp (28 g) unsalted butter, softened
 
@@ -45,6 +36,7 @@
 - 28 g (2 Tbsp) butter, melted
 - 1/2 tsp vanilla extract
 - 2-3 Tbsp honey
+- water as needed
 
 
 
@@ -64,6 +56,8 @@
 - [ ] Gently punch the dough down; place on a work surface. 
 - [ ] Divide it in half, and shape each piece into a rough rectangle. Roll each piece into an 18" x 8" rectangle.
 
+![](images/rolls1.png)
+
 #### filling
 
 - [ ] Combine the sugar and spice.
@@ -72,16 +66,25 @@
 - [ ] Starting with a long edge, roll the dough into a log. 
 - [ ] With the seam underneath, cut the log into slices, 1 1/2" thick. Use string or dental floss to make the cut (not a knife).
 - [ ] Lightly grease a 9" x 13" pan. Space the rolls in the pan.
-- [ ] Cover the pan and let the rolls rise for 45 to 60 minutes, until they're crowding one another and are quite puffy. 
+- [ ] Cover the pan and let the rolls rise for 45 to 60 minutes, until they're puffy and crowding one another. 
+- [ ] Bake at 350˚F for 22-25 minutes. Interior temperature should be about 188°F.
 
-  > [!TIP]
-  > Or let them rise overnight in a refrigerator.
-
-- [ ] Bake in a preheated oven at 350˚F for 22-25 minutes. Interior temperature should be about 188°F, despite little obvious browning.
+  > The final proof can alos be overnight in a refrigerator.
 
 #### glaze
 
-- [ ] Stir together the icing ingredients, adding just enough of honey to make a thick spreadable glaze. Add water if more liquid is necessary.
+- [ ] Stir together the glaze ingredients, adding just enough of water to make it spreadable..
 - [ ] Remove the rolls from the oven, and turn them out of the pan onto a wire rack. Spread them with the icing; it'll partially melt into the rolls.
 - [ ] Serve the rolls warm. 
+
+
+### Variations
+
+#### Sourdough
+
+Use sourdough starter with the following modifications:
+- 375 g AP flour
+- 30 g dried milk powder
+- 300 g sourdough starter
+- 20 g water or whole milk
 
