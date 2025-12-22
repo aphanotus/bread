@@ -33,19 +33,18 @@ I saw mention of this bread type on [La Cucina Italiana](https://www.lacucinaita
 - [ ] **Biga**: Mix the flours and yeast. Then add the water.
 - [ ] Knead it just enough to incorporate all the flour. 
 - [ ] Leave at room temperature (68 - 72°F) for 12–16 hours, covered with a damp cloth.
-- [ ] Tear the big into small chunks.
-- [ ] Mix in the water and honey to form a slurry.
-- [ ] Add the flour, salt and oil.
-- [ ] Knead.
-- [ ] **Puntata**: Cover the dough and let it rest for 45 minutes. (This isn't a full rise, just a relaxation period.)
+- [ ] Tear the biga into small chunks.
+- [ ] Mix in the water and honey to form a slurry. Add the flour, salt and oil. A stand mixer is useful for the initial mixing here.
+- [ ] Knead. Ideally by hand.
+- [ ] **Puntata**: Place the dough in a lightly-oiled bowl. Cover it, and let it rest for 45 minutes. (This isn't a full rise, just a relaxation period.)
+- [ ] Meanwhile, place parchment paper over a large cutting board or extra baking sheet. Heavily flour the parchment. (It can be useful to use a sieve to control the flour and spread it evenly.)  
 - [ ] **Shape**: Cut the dough into 8 equal pieces of 100 g each.
 - [ ] Flatten a piece into an oval shape with your palm.
 - [ ] Fold the top third down to the center and the bottom third up (like a letter).
-- [ ] Roll into a 6-inch cylinder, applying pressure with your palms to taper the ends into points.
+- [ ] Roll into a 6-inch cylinder with your hands, applying pressure at the ends to taper them into points.
 - [ ] Using the side of your hand, press a deep, long trench down the center of the roll (lengthwise).
 - [ ] Fold the dough over that trench and pinch the seam shut, forming a boat shape. 
-- [ ] **Proof:** Heavily flour parchment paper and arrange the rolls seam-up. Cover with a damp cloth, and allow them to rise for 60-75 minutes.
-
+- [ ] **Proof:** Place the rolls on the floured parchment paper. (Moving them with a dough scrapper with preserve their shape.) Cover and allow them to rise for 60-75 minutes.
 - [ ] Carefully flip the rolls onto a baking sheet so the seam is now on the bottom.
 - [ ] Lame lengthwise.
 - [ ] Bake at 450˚F for 15-18 minutes. Place boiling water in a pan or ramekin in the oven. 
