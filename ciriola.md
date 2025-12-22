@@ -1,10 +1,10 @@
 ## Ciriola Romana
 
-![](https://media.lacucinaitaliana.com/photos/5e07aacdbc15b2000845ac7d/2:1/w_1200,c_limit/Ciriola.jpg)
+![](images/ciriola.jpeg)
 
-Compared to ciabatta, ciriola should have smaller and more consistent alveoli and a thinner crust, described as being like an egg-shell.  
+Compared to [ciabatta](ciabatta.md), ciriola should have smaller and more consistent alveoli and a thinner crust, described as being like an egg-shell. They are traditionally baked as rolls that can be sliced in half to make a sandwich.
 
-I saw mention of this bread type on [La Cucina Italiana](https://www.lacucinaitaliana.com/italian-food/italian-dishes/ciriola-roman-bread-made-in-lazio). This recipe deviates significantly from that after researching the bread with other sources. This flour mix is an American stand in for Italian type 0 W 360 flour. 
+I saw mention of this type of bread on [La Cucina Italiana](https://www.lacucinaitaliana.com/italian-food/italian-dishes/ciriola-roman-bread-made-in-lazio). The recipe here deviates significantly from that one, after researching the bread with other sources. This flour mix is an American substitute for Italian type 0 W 360 flour. 
 
 
 
@@ -28,7 +28,7 @@ I saw mention of this bread type on [La Cucina Italiana](https://www.lacucinaita
 
 
 
-### Procedure
+### Preparation
 
 - [ ] **Biga**: Mix the flours and yeast. Then add the water.
 - [ ] Knead it just enough to incorporate all the flour. 
@@ -41,11 +41,11 @@ I saw mention of this bread type on [La Cucina Italiana](https://www.lacucinaita
 - [ ] **Shape**: Cut the dough into 8 equal pieces of 100 g each.
 - [ ] Flatten a piece into an oval shape with your palm.
 - [ ] Fold the top third down to the center and the bottom third up (like a letter).
-- [ ] Roll into a 6-inch cylinder with your hands, applying pressure at the ends to taper them into points.
+- [ ] Roll into a 6-inch cylinder with your hands, applying a lot of pressure at the ends to really taper them into the characteristic points.
 - [ ] Using the side of your hand, press a deep, long trench down the center of the roll (lengthwise).
 - [ ] Fold the dough over that trench and pinch the seam shut, forming a boat shape. 
 - [ ] **Proof:** Place the rolls on the floured parchment paper. (Moving them with a dough scrapper with preserve their shape.) Cover and allow them to rise for 60-75 minutes.
 - [ ] Carefully flip the rolls onto a baking sheet so the seam is now on the bottom.
-- [ ] Lame lengthwise.
+- [ ] Make a deep lengthwise cut along the top using a lame, razor or serrated knife.
 - [ ] Bake at 450˚F for 15-18 minutes. Place boiling water in a pan or ramekin in the oven. 
 - [ ] Cool on a wire rack.
