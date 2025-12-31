@@ -1,6 +1,8 @@
-## Pecan Pumpkin Pie 
+## Pecan Pumpkin Pie
 
-Experimental hybrid inspired by the popular Thanksgiving mash-up. Based on the instructions from the [King Arthur recipe](https://www.kingarthurbaking.com/recipes/pumpkin-pecan-pie-recipe), the old One-Pie recipe, and 
+![](images/pumpkin.pie.with.pecans.jpeg)
+
+Inspired by the popular Thanksgiving mash-up. Based on the old One-Pie recipe. 
 
 ### Ingredients
 
@@ -10,7 +12,7 @@ Experimental hybrid inspired by the popular Thanksgiving mash-up. Based on the i
 - 2 tsp cornstarch
 - 142 g brown sugar
 - 30 g  molasses
-- 2 eggs (1 whole & 1 yolk, beaten)
+- 2 eggs (1 whole & 1 yolk, beaten -- save the egg white)
 - 255 g evaporated milk (about two-thirds of a 12-oz can)
 - 5 g melted butter (about 1/3 Tbsp)
 - 1/4 tsp cinnamon
@@ -18,16 +20,13 @@ Experimental hybrid inspired by the popular Thanksgiving mash-up. Based on the i
 - 1/2 tsp nutmeg
 - 1/2 tsp salt
 
-#### Pecan filling
+#### Candied Pecans
 
-- 145 g pecans (1.25 cups)
-- 2 large eggs
-- 99 g maple syrup (or 78 g honey)
-- 34 g grapeseed oil
-- 65 g brown sugar
-- 4 g vanilla extract (1 scant tsp)
+- pecans (choose attractive whole pecan halves, enough to cover the surface of the pie)
+- 1 egg white
+- 1 Tbsp water
+- 1/4 cup granulated sugar
 - 1/4 tsp salt
-- 12 g AP flour
 
 
 ### Instructions
@@ -43,22 +42,21 @@ Experimental hybrid inspired by the popular Thanksgiving mash-up. Based on the i
 
 #### Pumpkin filling
 
-- [ ] In a medium bowl, combine all the pumpkin filling ingredients and whisk to combine. Set aside. 
+- [ ] Combine all the pumpkin filling ingredients and whisk to combine. Set aside. 
 - [ ] When the crust is done baking, remove it from the oven and pour the pumpkin filling into the crust (no need for it to cool first). It won't fill the crust; that’s OK. 
-- [ ] Return the pie to the oven, still on the baking sheet with the pie crust shield or foil around the edges, and bake for 40 to 45 minutes. The filling is done when it just barely wobbles when you tap or lightly shake the pan. It’s OK if the very center of the filling looks a little wet. 
-- [ ] Remove the pie from the oven and allow it to cool for 15 minutes at room temperature while you prepare the pecan filling. The pumpkin filling should set slightly during this time. 
+- [ ] Return the pie to the oven, still on the baking sheet with the pie crust shield or foil around the edges, and bake for 45 to 50 minutes. The filling is done when it just barely wobbles when you tap or lightly shake the pan. It’s OK if the very center of the filling looks a little wet. 
+- [ ] Remove the pie from the oven and allow it to cool for 15 minutes at room temperature while you prepare the pecans. The pumpkin filling should set during this time. 
 
-#### Pecan filling
+#### Candied Pecans
 
-- [ ] In a large bowl, whisk the 3 eggs until they are frothy and slightly pale (about 1 minute).
-- [ ] Whisk in the maple syrup (or honey) and the brown sugar until fully dissolved.
-- [ ] Whisk in the grapeseed oil, vanilla extract, and salt.
-- [ ] In a small, separate bowl, whisk the 2 tablespoons of flour with a spoonful of the liquid filling until you have a smooth paste. Whisk this paste back into the main filling bowl. (This technique prevents lumps.)
-- [ ] Gently fold the pecans into the filling mixture until they are evenly coated.
+- [ ] Mix the sugar and salt in a small bowl.
+- [ ] Whisk egg white and water together in a large bowl until frothy.
+- [ ] Toss pecans in the egg white mixture to coat.
+- [ ] Add the sugar mixture and gently stir until pecans are evenly coated.
+- [ ] Spread onto a lined baking sheet.
+- [ ] Bake at 250˚F. Flip or stir the pecans every 10 minutes, cooking for a total of about 45 to 50 minutes.
 
-#### Add the next layer
+#### Assembly
 
-- [ ] Pour the pecan filling mixture unto the pumpkin pie layer. You may need to gently smooth the top and arrange a few pecan halves for visual appeal.
-- [ ] Return the pie to the oven, still on the baking sheet with the pie crust shield or foil around the edges, and bake for 20 to 25 minutes. If the edges of the crust are browning too quickly, gently cover them with strips of aluminum foil. The pie is done when the edges of the filling are set and look stable, but the center still has a slight jiggle (like firm gelatin) when the pie is gently nudged. *Note: The center will continue to set as it cools.
-- [ ] Remove the pie from the oven. Let it cool completely on a wire rack for 3-4 hours (but ideally overnight) before slicing and serving. This long cool-down period is essential for the egg-based filling to set properly.
-- [ ] Store leftover Pumpkin Pecan Pie, loosely covered, in the refrigerator for up to 4 days. For the best flavor, let individual slices come to room temperature before serving. Do not freeze. 
+- [ ] Arrange the candied pecans on the pie.
+- [ ] Store refrigerated. Warm before serving.

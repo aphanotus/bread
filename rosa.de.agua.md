@@ -1,6 +1,6 @@
 ## Ecuadorian-Style Knotted Rolls (Rosa de Agua)
 
-
+![](images/rosa.de.agua.jpeg)
 
 This recipe produces a soft, slightly sweet bread with a light crumb. The key to making it a "rosa de agua" is the shaping technique.
 

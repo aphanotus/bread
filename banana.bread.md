@@ -1,5 +1,7 @@
 ## Banana Bread
 
+![](images/banana.bread.jpeg)
+
 ### Ingredients
 
 - 3 bananas (about 240g)
