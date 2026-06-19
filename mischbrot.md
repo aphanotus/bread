@@ -12,9 +12,9 @@ A 40% rye flour bread with a thick crust. Roughly 5.5 hours of kitchen time.
 
 ### Procedure
 
-**1. Mix (Expect Paste, Not Dough)** In a large bowl, whisk the active starter and water together until it looks like milky water. Add the bread flour, rye flour, and salt. Mix thoroughly with a sturdy spoon or your hands. It will feel like thick, sticky clay or wet concrete. This is exactly right. Cover the bowl.
+**1. Mix** In a large bowl, whisk the active starter and water together until it looks like milky water. Add the bread flour, rye flour, and salt. Mix thoroughly with a sturdy spoon or your hands. It will feel like thick, sticky clay or wet concrete. This is exactly right. Cover the bowl.
 
-**2.Bulk Fermentation (The Watchful Eye)** Rye ferments much faster than wheat. Let the bowl sit at room temperature for about 2.5 hours. You are looking for the dough to increase in volume by about 30 to 50% and look aerated and puffy.
+**2.Bulk Fermentation** Rye ferments much faster than wheat. Let the bowl sit at room temperature for about 2.5 hours. You are looking for the dough to increase in volume by about 30 to 50% and look aerated and puffy.
 
 **3. Shaping** Use a banneton (or line a medium bowl or with a clean kitchen towel). Dust heavily with flour (rice flour is best if you have it, otherwise use a generous amount of bread flour). Dip your hands in a bowl of water to keep the dough from sticking to you. Gently scoop the puffy dough out of its bowl and pass it back and forth between your wet hands, gently patting and smoothing it into a round mound. Drop this mound directly into your heavily floured, towel-lined bowl.
 
